@@ -1,0 +1,522 @@
+body {
+  background-color: #FCFBFF;
+}
+
+header .btn-burger {
+  border: none;
+}
+
+main {
+  font-family: "Playfair Display";
+}
+
+main .we-will {
+  color: #dddd !important;
+}
+
+main .container-banner {
+  margin-top: 39px;
+}
+
+main .container-banner .banner-text {
+  background-color: #244D4D;
+}
+
+main .container-banner .banner-text h4 {
+  color: #ffff;
+  margin-left: 100px;
+  font-weight: 900;
+  font-size: 56px;
+  padding-left: 100px;
+  padding-top: 55px;
+}
+
+main .container-banner .banner-text p {
+  padding-left: 98px;
+  padding-top: 20px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Nunito Sans' !important;
+  font-weight: 400;
+}
+
+main .container-banner .img-banner {
+  width: 991px;
+  height: 470px;
+}
+
+main .benefit .container {
+  margin-top: 150px;
+}
+
+main .benefit .container .garis {
+  margin-top: 50px;
+}
+
+main .benefit .container .benefit-title h4 {
+  color: #242424;
+  font-weight: 900;
+}
+
+main .benefit .container .row-item-benefit .media .media-body h5 {
+  font-family: 'Nunito Sans' !important;
+  font-weight: 800;
+  font-size: 28px;
+}
+
+main .benefit .container .row-item-benefit .media .media-body p {
+  font-family: 'Nunito Sans' !important;
+}
+
+main .best-experience {
+  margin-top: 100px;
+}
+
+main .best-experience .best-img {
+  background-size: cover;
+  width: 450px;
+  height: 600px;
+}
+
+main .best-experience .experience-text h4 {
+  line-height: 68px;
+  color: #242424;
+  font-weight: 800;
+  font-size: 48px;
+}
+
+main .best-experience .experience-text p {
+  font-size: 18px;
+  margin-top: 20px;
+  line-height: 28px;
+  color: #595959;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+main .best-experience .experience-info .ex-info h5 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 68px;
+  letter-spacing: 0.005em;
+  text-align: left;
+}
+
+main .best-experience .experience-info .ex-info p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.005em;
+  text-align: left;
+}
+
+main .best-experience .experience-info .ex-btn .btn-ex {
+  margin-top: 20px;
+  width: 150px;
+  height: 64px;
+  color: #244d4d;
+  border: 2px solid #244D4D;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+main .best-experience .experience-info .ex-btn .btn-ex:hover {
+  background-color: #244d4d;
+  color: #ffff;
+}
+
+main .best-proses {
+  margin-top: 140px;
+}
+
+main .best-proses .best-proses-text h4 {
+  position: absolute;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 68px;
+  color: #242424;
+}
+
+main .best-proses .best-proses-text .media .media-body h5 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+main .best-proses .best-proses-text .media .media-body p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: #595959;
+}
+
+main .best-proses .best-proses-text .media-1 {
+  margin-top: 190px;
+}
+
+main .customer {
+  margin-top: 140px;
+}
+
+main .customer .customer-text h4 {
+  font-family: "Playfair Display";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+main .customer .carousel-customer {
+  margin-top: 50px;
+}
+
+main .customer .carousel-customer .item .card {
+  padding-left: 25px;
+  padding-top: 20px;
+  background-color: #244D4D;
+  border: none;
+  color: #ffff;
+}
+
+main .customer .carousel-customer .item .card .petik {
+  width: 47px;
+  height: 34px;
+  margin-top: 20px;
+}
+
+main .customer .carousel-customer .item .card h5 {
+  margin-top: 20px;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+main .customer .carousel-customer .item .card p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #dddddd;
+}
+
+main .customer .carousel-customer .item .card .people {
+  width: 60px;
+  height: 60px;
+}
+
+main .customer .carousel-customer .item .card .media-customer {
+  padding-bottom: 30px;
+}
+
+main .customer .carousel-customer .item .card .media-customer h5 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: -0.22484277188777924px;
+  text-align: left;
+}
+
+main .customer .carousel-customer .item .card .media-customer p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.22484277188777924px;
+  text-align: left;
+  color: #dddddd;
+}
+
+main .sub {
+  margin-top: 100px;
+}
+
+main .sub .sub-text h4 {
+  font-family: "Playfair Display";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #242424;
+}
+
+main .sub .sub-text p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #595959;
+}
+
+main .sub .form-email {
+  background-color: #ffff;
+  height: 100px;
+}
+
+main .sub .form-email .btn-sub {
+  margin-left: -20px;
+  border-radius: 0;
+  width: 170px;
+  height: 74px;
+  margin-top: 13px;
+  font-family: "Nunito Sans", sans-serif;
+  background-color: #244D4D;
+  color: #ffff;
+}
+
+main .sub .form-email .btn-sub:hover {
+  background-color: #103E3E;
+  color: #ffff;
+}
+
+main .sub .form-email .border-text {
+  font-family: "Nunito Sans", sans-serif;
+  border: none;
+}
+
+main .sub .form-email .jarak-content1 {
+  margin-top: 33px;
+}
+
+footer {
+  padding-bottom: 30px;
+  background: #233443;
+  color: #ffff;
+  margin-top: -10px;
+}
+
+footer .container {
+  padding-top: 30px;
+}
+
+footer ul li {
+  list-style: none;
+}
+
+footer .fot-logo {
+  font-family: "Playfair Display";
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+footer .fot-txt-1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+footer .fot-txt-2 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color: #dddddd;
+}
+
+/* If the screen size is 601px or more */
+/* If the screen size is 320px or less*/
+/* If the screen size is 320px or less*/
+@media only screen and (max-width: 320px) {
+  .ic-burger {
+    display: none;
+  }
+  main .banner .banner-text h4 {
+    font-size: 38px;
+    margin-left: -60px;
+  }
+  main .banner .banner-text p {
+    font-size: 16px;
+    margin-left: -60px;
+  }
+  main .benefit .benefit-title h4 {
+    font-size: 38px;
+  }
+  main .best-proses .container .media-1 {
+    margin-top: 400px;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) and (min-width: 320px) {
+  .ic-burger {
+    display: none;
+  }
+  main .banner .banner-text h4 {
+    font-size: 38px;
+    margin-left: -60px;
+  }
+  main .banner .banner-text p {
+    font-size: 16px;
+    margin-left: -60px;
+  }
+  main .benefit .benefit-title h4 {
+    font-size: 38px;
+  }
+  main .best-proses .container .media-1 {
+    margin-top: 300px;
+  }
+  footer {
+    padding-top: -300px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .ic-burger {
+    display: none;
+  }
+  main .banner .banner-text h4 {
+    font-size: 46px;
+    margin-left: -100px;
+    text-align: center;
+  }
+  main .banner .banner-text p {
+    margin-left: -100px;
+    text-align: center;
+  }
+  main .benefit .benefit-title h4 {
+    font-size: 48px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .ic-burger {
+    display: none;
+  }
+  main .container-banner .banner-text h4 {
+    margin: 0;
+    padding: 0;
+    padding-top: 25px;
+    font-size: 44px;
+  }
+  main .container-banner .banner-text p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  main .container-banner .banner-img {
+    margin: 0;
+    padding: 0;
+    margin-top: -30px;
+  }
+  main .benefit .benefit-title h4 {
+    font-size: 48px;
+  }
+  main .customer .item .card {
+    min-height: 400px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .ic-burger {
+    display: block;
+  }
+  main .banner-text {
+    height: 470px;
+    min-width: 570px;
+    position: absolute;
+    z-index: 1;
+    margin-left: -16px;
+    margin-top: 90px;
+  }
+  main .banner-text h4 {
+    text-align: left;
+  }
+  main .img-banner {
+    margin-top: 160px;
+    margin-left: -10px;
+  }
+  main .customer .item .card {
+    min-height: 450px;
+  }
+  main .sub .sub-text {
+    width: 100%;
+  }
+  main .sub .sub-text h4 {
+    width: 700px;
+  }
+  main .sub .sub-text p {
+    width: 550px;
+  }
+  main .sub .form-email .button-subs {
+    margin-left: -30px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .ic-burger {
+    display: block;
+  }
+  .banner-text {
+    position: absolute;
+    z-index: 1;
+    margin-left: -16px;
+    margin-top: 50px;
+    min-height: 470px;
+    width: 570px;
+  }
+  .banner-text h4 {
+    padding-top: 100px !important;
+    text-align: left !important;
+    margin-left: 100px !important;
+  }
+  .banner-text p {
+    text-align: left !important;
+    margin-left: 100px !important;
+  }
+  .img-banner {
+    margin-top: 100px;
+    margin-left: -10px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
